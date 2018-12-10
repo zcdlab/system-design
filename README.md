@@ -5,7 +5,7 @@ https://www.youtube.com/watch?v=0163cssUxLA
 
 https://www.tutorialspoint.com/system_analysis_and_design/index.htm
 
-## Nginx:
+## Nginx and Load Balancing:
 https://www.linuxtrainingacademy.com/http-load-balancing-nginx-video-cheatsheet-vagrantfile/
 
 ## Kafka
