@@ -15,3 +15,7 @@ Introduction to Apache Kafka by James Ward - https://www.youtube.com/watch?v=UEg
 ## ETL Pipeline
 
 Building Robust ETL Pipelines with Apache Spark - Xiao Li - https://www.youtube.com/watch?v=exWGf0aXJF4
+
+
+## Cache
+Redis system design | Distributed cache System design - https://www.youtube.com/watch?v=DUbEgNw-F9c
