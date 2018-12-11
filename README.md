@@ -19,3 +19,8 @@ Building Robust ETL Pipelines with Apache Spark - Xiao Li - https://www.youtube.
 
 ## Cache
 Redis system design | Distributed cache System design - https://www.youtube.com/watch?v=DUbEgNw-F9c
+
+
+## Websocket
+
+WebSockets (using Socket.io) Tutorial #1 - What Are WebSockets? - https://www.youtube.com/watch?v=vQjiN8Qgs3c
