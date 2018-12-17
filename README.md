@@ -24,3 +24,5 @@ Redis system design | Distributed cache System design - https://www.youtube.com/
 ## Websocket
 
 WebSockets (using Socket.io) Tutorial #1 - What Are WebSockets? - https://www.youtube.com/watch?v=vQjiN8Qgs3c
+
+What are WebSockets | How is it different from HTTP? - https://www.youtube.com/watch?v=i5OVcTdt_OU
