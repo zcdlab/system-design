@@ -12,6 +12,8 @@ https://www.linuxtrainingacademy.com/http-load-balancing-nginx-video-cheatsheet-
 
 Introduction to Apache Kafka by James Ward - https://www.youtube.com/watch?v=UEg40Te8pnE
 
+Lessons learned form Kafka in production (Tim Berglund, Confluent) - https://www.youtube.com/watch?v=1vLMuWsfMcA
+
 ## ETL Pipeline
 
 Building Robust ETL Pipelines with Apache Spark - Xiao Li - https://www.youtube.com/watch?v=exWGf0aXJF4
