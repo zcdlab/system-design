@@ -36,3 +36,4 @@ Consider
 
 
 
+Keep 20% or 30% capacity left (we don't want to go above 70% or 80% of total capacity of our storage system).
