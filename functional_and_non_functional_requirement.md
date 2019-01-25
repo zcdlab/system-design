@@ -14,4 +14,4 @@
 Low Latency: real time performance.
 Highly persistency: user see the same information in all device.
 Hihg availability: very low down time.
-
+Our services shouls support a heave search load since there will be a lot of search requests.
